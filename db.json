@@ -1,0 +1,19 @@
+{
+    "message":
+        [
+            { "message": [ { "errorMessage": "" } ] }
+        ],
+    "result":
+        {
+            "ImageInfo":
+            [
+                {
+                "id":"imageid1",
+                "imageFileName":"https://d2yaxdxpainwv0.cloudfront.net/20220120_220035_fVvqqmrIgs_1200_1200_1642683633270.jpg",
+                "imageUrl":"https://d2yaxdxpainwv0.cloudfront.net/20220120_220035_fVvqqmrIgs_1200_1200_1642683633270.jpg",
+                "imageWidth":1200,
+                "imageHeight":1200
+                }
+            ]
+        }
+}
